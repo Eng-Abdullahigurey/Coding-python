@@ -1,0 +1,1 @@
+The sum of numbers from 1 to 22 is:253

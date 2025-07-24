@@ -1,0 +1,5 @@
+CustomerID	Name		Phone		Email
+------------------------------------------------------------
+990	Siraji	+252613198195	engabdullahi@gmail.com
+009	Fatxi	+252612134568	fatxi11.gmail.com
+8890	Dagan	+2540734231	dagan22.gmail.com
